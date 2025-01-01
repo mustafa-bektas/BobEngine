@@ -12,5 +12,17 @@ FetchContent_Declare(SFML
     SYSTEM)
 FetchContent_MakeAvailable(SFML)
 
-add_executable(main src/main.cpp)
+# Add the include directory to the search paths
+include_directories(${CMAKE_SOURCE_DIR}/include/core)
+
+add_executable(main src/main.cpp
+        src/core/GameLoop.cpp
+        src/core/InputHandler.cpp
+        src/core/Game.cpp
+        include/core/Game.hpp
+        include/core/GameLoop.hpp
+        include/core/InputHandler.hpp
+        src/core/ShapeFactory.cpp
+        include/core/ShapeFactory.hpp
+)
 target_link_libraries(main PRIVATE SFML::Graphics)
