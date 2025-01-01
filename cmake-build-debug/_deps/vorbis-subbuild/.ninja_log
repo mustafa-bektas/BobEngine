@@ -1,0 +1,21 @@
+# ninja log v6
+1	47	7573964813469061	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	6120b82229e6648a
+1	47	7573964813469061	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	6120b82229e6648a
+47	3391	7573964846907454	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	7ceaafafaa96d104
+47	3391	7573964846907454	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	7ceaafafaa96d104
+3391	3492	7573964846953089	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	5f48fa1e856ba9
+3391	3492	7573964846953089	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	5f48fa1e856ba9
+3492	3537	7573964848354978	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	b114554d9598401d
+3492	3537	7573964848354978	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	b114554d9598401d
+3537	3580	7573964848794131	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	3bfce11616f0bf36
+3537	3580	7573964848794131	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	3bfce11616f0bf36
+3580	3623	7573964849233620	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	fa56c0bf32cc84a5
+3580	3623	7573964849233620	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	fa56c0bf32cc84a5
+3624	3666	7573964849649806	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	b81da27e7c7a35c3
+3624	3666	7573964849649806	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	b81da27e7c7a35c3
+3666	3709	7573964850082444	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	43c228ae36703321
+3666	3709	7573964850082444	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	43c228ae36703321
+3709	3768	7573964850680856	CMakeFiles/vorbis-populate-complete	1363aae8376a8f67
+3709	3768	7573964850680856	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	1363aae8376a8f67
+3709	3768	7573964850680856	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	1363aae8376a8f67
+3709	3768	7573964850680856	H:/BobEngine/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	1363aae8376a8f67

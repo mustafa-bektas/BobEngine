@@ -1,0 +1,21 @@
+# ninja log v6
+2	55	7573964578326453	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	ccbb44a65a6494d2
+2	55	7573964578326453	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	ccbb44a65a6494d2
+55	9384	7573964671625360	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	cd5eda5fb6c8e0ce
+55	9384	7573964671625360	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	cd5eda5fb6c8e0ce
+9384	9485	7573964671670812	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	158ccb5b12596ddb
+9384	9485	7573964671670812	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	158ccb5b12596ddb
+9485	9531	7573964673100765	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	44377a2c4e635830
+9485	9531	7573964673100765	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	44377a2c4e635830
+9531	9574	7573964673525501	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	d938e1eabff068bc
+9531	9574	7573964673525501	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	d938e1eabff068bc
+9574	9617	7573964673952781	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	28f94a6951a28c5
+9574	9617	7573964673952781	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	28f94a6951a28c5
+9617	9659	7573964674382840	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	bd3fbc2a623d943a
+9617	9659	7573964674382840	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	bd3fbc2a623d943a
+9660	9702	7573964674807756	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	abbd55db7d8f1bb0
+9660	9702	7573964674807756	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	abbd55db7d8f1bb0
+9702	9761	7573964675395453	CMakeFiles/freetype-populate-complete	676ed1064c77ae5b
+9702	9761	7573964675395453	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	676ed1064c77ae5b
+9702	9761	7573964675395453	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	676ed1064c77ae5b
+9702	9761	7573964675395453	H:/BobEngine/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	676ed1064c77ae5b

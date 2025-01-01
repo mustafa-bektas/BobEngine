@@ -1,0 +1,21 @@
+# ninja log v6
+2	45	7573964677796226	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	1fe2c7a07a888224
+2	45	7573964677796226	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	1fe2c7a07a888224
+46	2224	7573964699583201	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	7f44cfbb01755b86
+46	2224	7573964699583201	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	7f44cfbb01755b86
+2224	2323	7573964699628816	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	7d7a3e9626cc3b32
+2224	2323	7573964699628816	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	7d7a3e9626cc3b32
+2323	2368	7573964701029661	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	8b204389629a6dd7
+2323	2368	7573964701029661	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	8b204389629a6dd7
+2368	2411	7573964701462822	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	356e00bbbe8655ee
+2368	2411	7573964701462822	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	356e00bbbe8655ee
+2411	2454	7573964701885203	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	de5e25a0d58fe1d4
+2411	2454	7573964701885203	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	de5e25a0d58fe1d4
+2454	2498	7573964702316957	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	914ce89a90457e5a
+2454	2498	7573964702316957	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	914ce89a90457e5a
+2498	2540	7573964702745694	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	42c41f98eea2ba68
+2498	2540	7573964702745694	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	42c41f98eea2ba68
+2541	2600	7573964703342147	CMakeFiles/ogg-populate-complete	ca91e5735083a935
+2541	2600	7573964703342147	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	ca91e5735083a935
+2541	2600	7573964703342147	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	ca91e5735083a935
+2541	2600	7573964703342147	H:/BobEngine/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	ca91e5735083a935
